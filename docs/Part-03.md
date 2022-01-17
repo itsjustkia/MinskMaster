@@ -1,10 +1,5 @@
 # Episode 3
 
-[Video](https://www.youtube.com/watch?v=61dLQNgd9o8&list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y&index=3) |
-[Pull Request](https://github.com/terrajobst/minsk/pull/7) |
-[Previous](episode-02.md) |
-[Next](episode-04.md)
-
 ## Completed items
 
 * Extracted compiler into a separate library
