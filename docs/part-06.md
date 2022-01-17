@@ -1,9 +1,4 @@
-# Episode 6
-
-[Video](https://www.youtube.com/watch?v=M0mEvzfObN0&list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y&index=6) |
-[Pull Request](https://github.com/terrajobst/minsk/pull/21) |
-[Previous](episode-05.md) |
-[Next](episode-07.md)
+# Part 6
 
 ## Completed items
 
