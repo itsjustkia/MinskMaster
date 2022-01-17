@@ -1,9 +1,4 @@
-# Episode 2
-
-[Video](https://www.youtube.com/watch?v=3XM9vUGduhk&list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y&index=3) |
-[Pull Request](https://github.com/terrajobst/minsk/pull/3) |
-[Previous](episode-01.md) |
-[Next](episode-03.md)
+# Part 2
 
 ## Completed items
 
@@ -17,11 +12,11 @@
 
 ### Generalized precedence parsing
 
-In the [first episode](episode-01.md), we've written our recursive descent
+In the Part 1, we've written our recursive descent
 parser in such a way that it parses additive and multiplicative expressions
 correctly. We did this by parsing `+` and `-` in one method (`ParseTerm`) and
 the `*` and `/` operators in another method `ParseFactor`. However, this doesn't
-scale very well if you have a dozen operators. In this episode, we've replaced
+scale very well if you have a dozen operators. In this part, we've replaced
 this with [unified method][precedence-parsing].
 
 [precedence-parsing]: https://github.com/terrajobst/minsk/blob/b9e0a3f8858b410ead4afbc3e165c316a628208e/mc/CodeAnalysis/Syntax/Parser.cs#L69-L96
