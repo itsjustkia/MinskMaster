@@ -1,4 +1,4 @@
-# Episode 3
+# Part 3
 
 ## Completed items
 
